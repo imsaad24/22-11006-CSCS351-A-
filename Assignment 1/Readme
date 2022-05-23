@@ -1,2 +1,7 @@
 The Unit Tester code tests the Sorted List code.
-More informationm in Document attached
+
+The first test checks getLength method to see if the function provides correct length
+The second test checks insertNode method to see if the function adds nodes correctly
+The third test checks removeLowest method to see if the function removes nodes correctly
+The fourth test checks removeHighest method to see if the function removes the highest nodes correctly
+The second test checks isEmpty method to see if the function to see if correct information is provided
